@@ -32,6 +32,7 @@
 
  Частотость употребления слова "construed" в Trends (корпус BNC):
  
- ![](
+ ![](https://github.com/ingakaspar/hw6/blob/master/IMG_0327.JPG)
+ 
 
 
