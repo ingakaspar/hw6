@@ -25,4 +25,4 @@
  ## Задание(бонус) 3
  Откройте Trends (корпус BNC) и выберите одно из слов. Сравните, как менялась частотность этого слова в Google Ngrams. Наблюдаете ли Вы резкий рост частотности этого слова? Если нет, почему различаются данные в Google Ngrams и BNC? Если да, как соотносятся данные о росте частоты употреблений этого слова в BNC и Google Ngrams. Приведите полученные данные и дайте ваши объяснения в readme.
  
-![](https://github.com/ingakaspar/hw6/blob/master/Vd4aLvwcwzI.jpg)
+![](https://github.com/ingakaspar/hw6/blob/master/v-I3Lrp6St8.jpg)
