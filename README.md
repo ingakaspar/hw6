@@ -30,7 +30,7 @@
  
 ![](https://github.com/ingakaspar/hw6/blob/master/v-I3Lrp6St8.jpg)
 
- Частотость употребления слова "construed" в Trends (корпус BNC):
+ Частотость употребления слова "construed" корпусе BNС:
  
  ![](https://github.com/ingakaspar/hw6/blob/master/IMG_0327.JPG)
  
